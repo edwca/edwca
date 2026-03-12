@@ -60,8 +60,6 @@ Diseño y construcción de pipelines que automatizan pruebas (unitarias, integra
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwca&show_icons=true&theme=radical&count_private=true&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwca&layout=compact&theme=radical&hide_border=true)
 
 ---
