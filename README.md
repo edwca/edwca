@@ -1,14 +1,16 @@
-# 👋 Hola, soy Edwin
+# 👋 Hola, soy GREG!
 
 ## 🚀 Sobre mí
 
-Soy un **Ingeniero de Software especializado en Testing y Quality Assurance**, apasionado por crear soluciones robustas de automatización de pruebas y garantizar la calidad del software desde las primeras etapas del desarrollo.
+Soy un **Ingeniero en informática e Ingeniero civil industrial especializado en Testing y Quality Assurance**, apasionado por crear soluciones robustas de automatización de pruebas y garantizar la calidad del software.
 
 Con experiencia en múltiples frameworks y tecnologías, me especializo en:
-- 🧪 **Test Automation**: Diseño e implementación de frameworks de pruebas escalables
+- 🧪 **Test Automation**: Diseño e implementación de frameworks de pruebas escalables integradas con apis de terceros
 - 🔄 **CI/CD**: Integración continua y entrega continua con pipelines automatizados
 - 📊 **Quality Engineering**: Estrategias de testing end-to-end, API y funcional
 - 💻 **Full-Stack Development**: Desarrollo orientado a la calidad desde el código
+
+Además, lidero e integro un equipo de plataforma que construye y mantiene frameworks orientados a la calidad del software y nuevas automatizaciones para acelerar la entrega y reducir el riesgo.
 
 ---
 
@@ -27,45 +29,32 @@ Con experiencia en múltiples frameworks y tecnologías, me especializo en:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### Bases de datos
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PL%2FSQL-2C93D1?style=for-the-badge&logo=oracle&logoColor=white)
+
+Experiencia trabajando con modelos relacionales y NoSQL, optimización de queries, diseño de índices, migraciones y estrategias de respaldo/alta disponibilidad.
+
 ### Frameworks & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### CI/CD & Pipelines
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+Diseño y construcción de pipelines que automatizan pruebas (unitarias, integración, E2E), análisis de calidad (lint, coverage), despliegues canary/blue-green y rollbacks automáticos.
+
 ### Metodologías
 - ✅ **BDD** (Behavior Driven Development) con Cucumber/Gherkin
 - 🏗️ **Page Object Model** (POM) para mantenibilidad
 - 📐 **Spec Driven Development** (SDD)
 - 🔄 **Agile/Scrum** con enfoque en calidad continua
-
----
-
-## 📂 Proyectos Destacados
-
-### 🔹 [testBeetrack](https://github.com/edwca/testBeetrack)
-Framework de automatización con **Cypress** que incluye:
-- Integración con Faker para datos de prueba
-- Soporte de XPath y eventos reales
-- Arquitectura Page Object Model
-- Reportes con Mocha
-
-**Stack**: JavaScript, Cypress, Faker, Mocha
-
-### 🔹 [cypress-pom-cucumber-framework](https://github.com/edwca/cypress-pom-cucumber-framework)
-Framework completo que combina **Cypress + Cucumber + POM** para pruebas BDD en TypeScript.
-
-**Stack**: TypeScript, Cypress, Cucumber
-
-### 🔹 [karate-framework-template](https://github.com/edwca/karate-framework-template)
-Template para pruebas de API con **Karate Framework**, ideal para testing de microservicios.
-
-**Stack**: Java, Karate
-
-### 🔹 [linkextractionwithpuppeteer](https://github.com/edwca/linkextractionwithpuppeteer)
-Utilidad para extracción de enlaces usando **Puppeteer** para web scraping y automatización de navegador.
-
-**Stack**: JavaScript, Puppeteer
 
 ---
 
@@ -88,22 +77,16 @@ Mi enfoque se centra en:
 - 📚 **Documentación Viva**: Especificaciones ejecutables con BDD
 - 🔬 **Mejora Continua**: Refactorización constante de tests y procesos
 - 🎨 **Clean Code**: Código de prueba tan importante como el código de producción
+- 🤖 AI-Assisted Testing y generación inteligente de casos de prueba
 
----
-
-## 🌱 Actualmente Aprendiendo
-
-- 🎭 **Playwright** con TypeScript para testing moderno
-- 🐳 **Docker & Kubernetes** para entornos de prueba containerizados
-- ☁️ **Cloud Testing** en Azure y AWS
-- 🤖 **AI-Assisted Testing** y generación inteligente de casos de prueba
+Además, trabajo como facilitador de plataforma: lidero la construcción de herramientas y frameworks internos que permiten a equipos de producto entregar con más rapidez y mayor calidad. Esto incluye guías, plantillas de pipeline, control de calidad automatizado y formación al equipo.
 
 ---
 
 ## 📫 Cómo Contactarme
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gregory-caceres/?skipRedirect=true)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecaceresmorales@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edwca)
 
 ---
